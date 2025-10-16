@@ -1,8 +1,7 @@
 # 👁️ Sistema de Reconhecimento Facial com Registro de Presença (OpenCV + Haar Cascade)
-
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.10.0.84-5C3EE8?logo=opencv&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 <p align="center">
 📸 Projeto acadêmico que utiliza visão computacional para detectar rostos em tempo real e registrar presenças automaticamente.
@@ -63,18 +62,6 @@ A solução foi desenvolvida em **Python** utilizando a biblioteca **OpenCV** e 
 
 ---
 
-## 🗂️ Estrutura do Projeto
-├── src/
-│ ├── face_detect_integrado.py
-│ └── init.py
-├── assets/
-│ └── haarcascade_frontalface_default.xml
-├── logs/
-│ └── presenca.txt
-├── requirements.txt
-├── README.md
-└── .gitignore
-
 ## ⚙️ Como Rodar o Projeto
 
 ### 1️⃣ Clone este repositório
@@ -95,6 +82,8 @@ Download XML
 
 ### 4️⃣ Execute o programa
 python detector_face.py
+
+---
 
 ## ⚖️ Nota Ética sobre Reconhecimento Facial
 
