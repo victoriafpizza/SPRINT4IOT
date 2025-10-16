@@ -1,7 +1,10 @@
 # 👁️ Sistema de Reconhecimento Facial com Registro de Presença (OpenCV + Haar Cascade)
+
+<p align="center">
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+</p>
 
 <p align="center">
 📸 Projeto acadêmico que utiliza visão computacional para detectar rostos em tempo real e registrar presenças automaticamente.
@@ -18,7 +21,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-FIAP%20Sprint%203-IOT%20&%20IOB-ed145b" /> 
 </p>
 
 ---
