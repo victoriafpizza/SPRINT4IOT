@@ -1,0 +1,10 @@
+# IDE e cache
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# Mídia e saídas
+saida_anotada.mp4
+*.mp4
+logs/*.txt
