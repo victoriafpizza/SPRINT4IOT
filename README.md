@@ -92,9 +92,6 @@ privacidade, segurança e respeito aos direitos individuais.
 ## 🌱 Possíveis Extensões Futuras
 
 🔌 Integração com dispositivos IoT — ex.: acender um LED via ESP32 quando um rosto for detectado.
-
 🧠 Reconhecimento de identidade — usar redes neurais para identificar usuários específicos.
-
 ☁️ Integração com APIs externas — enviar logs para um servidor ou banco de dados em nuvem.
-
 📱 Interface mobile ou web — para exibir em tempo real quem foi detectado.
